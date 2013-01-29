@@ -2,6 +2,6 @@
 
 Reduce time spent searching online for synonyms due to limited in-built functionality of Word.
 
-![Word 2010 Addin Thesaurus](sample.jpg)
+![Word 2010 Addin Thesaurus](/word-thesaurus/master/sample.jpg)
 
 [Remember to request your API](http://www.abbreviations.com/api.php) 
